@@ -114,7 +114,7 @@ void loop() {
     sweepDirection = 1;
   }
   
-  delay(50); // Faster refresh
+  delay(50); //  refresh rate
 }
 
 float measureDistance() {
